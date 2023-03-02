@@ -3,3 +3,5 @@
 2. Ddos attacks must be perfomed by some companies VPNs whop dont like idea tor is better solution than centralized VPN 
 3. There are cases on Community where tor relays uses computers as relays without authorized or consesual from owner machines; very unethical 
 4. Tor community censor people who try notice about dangerous/legal issues to be bridge or exit nodes
+5. For more diversity opnions in Tor community ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/ACCEPT_DIVERSITY_01.png)
+
