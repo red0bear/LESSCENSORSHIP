@@ -6,3 +6,5 @@
 #3. i was mutted and shadowbanned from telegram but they like pay lawers to defend misogynist people as nikolas ferreira and yet waste money on it "pau que da em mariazinha da-se no chiquinho tbm"
 
 #4. Privacy is the number zero priority from telegram
+
+#5. IrinaS is most toxic staff telegram i have been seen. ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/toxic_staff_telegram.png)
