@@ -6,4 +6,4 @@
 5. For more diversity opnions in Tor community ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/ACCEPT_DIVERSITY_01.png)
 6. Censor is too strong there, but no one cares ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/IGNORED_AGAIN_CENSOR_IS_TOO_STRONG_THERE.png)
 7. Dont delete people, you let iran and turkmenistan agenda on tor community ? Brazil suffer censorship too ! ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/CENSORED_ON_FREESPEECH_AGAIN.png)
-
+8. Tor cant fund rerlays but can intefer on others countries govern ? 
