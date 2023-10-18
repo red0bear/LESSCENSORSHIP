@@ -11,4 +11,4 @@
 
 #6. on actual state of the art you pay more taxes pér transaction using original wallet than expcted. This mean bitcoin falied to reach more poor people. 
 
-#7. Devs listen too much the demmands from scammers
+#7. Devs listen too much the demmands from scammers and censor users who disagree
