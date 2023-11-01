@@ -7,4 +7,5 @@
 6. Censor is too strong there, but no one cares ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/IGNORED_AGAIN_CENSOR_IS_TOO_STRONG_THERE.png)
 7. Dont delete people, you let iran and turkmenistan agenda on tor community ? Brazil suffer censorship too ! ![plot](https://github.com/red0bear/LESSCENSORSHIP/blob/main/IMAGES/CENSORED_ON_FREESPEECH_AGAIN.png)
 8. Tor cant fund rerlays but can intefer on others countries govern ?
-9. Tor keep deleting things .... keeps try moldeling things by agenda ....... and dont listens critics .... will not end well. 
+9. Tor keep deleting things .... keeps try moldeling things by agenda ....... and dont listens critics .... will not end well.
+10. Relay operators seems missing while tor likes to promote his personal vision of diversity : https://forum.torproject.org/t/who-do-you-help-when-you-support-the-tor-project/10034
